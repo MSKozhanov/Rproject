@@ -1,0 +1,10 @@
+
+.item{
+  color: gray;
+  margin-left: 10px;
+  
+}
+.item img{
+  width: 30px;
+  border-radius: 50%;
+}
